@@ -66,4 +66,5 @@ class Song
     song.name = splitted[1]
     song.artist_name = splitted[0]
     song 
+  end 
 end
