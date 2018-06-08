@@ -64,4 +64,5 @@ class Song
     splitted = cut.split("-")
     
     
+    
 end
